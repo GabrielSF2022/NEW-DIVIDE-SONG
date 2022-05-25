@@ -6,7 +6,9 @@
 ![New Divide-song - Google Chrome 2022-05-03 20-21-26 (1)](https://user-images.githubusercontent.com/97768716/166589429-448820f4-9ed5-4fee-a369-e0861d21a85d.gif)
 
   
-
+<h2 align="center">
+  <a href="https://gabrielsf2022.github.io/New-Divide-song/" target="_blank"> Veja o site </a>
+</h2>
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
  
