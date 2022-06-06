@@ -4,6 +4,7 @@
 
 
 ![New Divide-song - Google Chrome 2022-05-03 20-21-26 (1)](https://user-images.githubusercontent.com/97768716/166589429-448820f4-9ed5-4fee-a369-e0861d21a85d.gif)
+![Design_sem_nome__4_-removebg-preview](https://user-images.githubusercontent.com/97768716/172183342-7dbbbcdc-0348-4355-94c7-00ce5b9a6418.png)
 
   
 <h2 align="center">
